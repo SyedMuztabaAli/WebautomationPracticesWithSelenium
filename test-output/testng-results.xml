@@ -19,7 +19,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeCrossBrowser -->
-      </class> <!-- com.batch.CrossBrowserInit -->
+      </class> <!-- com.com.batch.CrossBrowserInit -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
